@@ -2,7 +2,7 @@
   {
     "name": "Сырники из творога",
     "cookingTime": "30 минут",
-    "ingredientsForTwoPerson": [
+    "ingredientsFor2Person": [
       {
         "name": "Творог",
         "count": 350,
@@ -36,7 +36,7 @@
   {
     "name": "Салат из красной фасоли с творожным сыром, красным луком и сезонным салатом",
     "cookingTime": "7 минут",
-    "ingredientsForTwoPerson": [
+    "ingredientsFor2Person": [
       {
         "name": "Специи",
         "count": 0,
@@ -87,7 +87,7 @@
   {
     "name": "Чечевичный суп с мятой",
     "cookingTime": "30 минут.",
-    "ingredientsForTwoPerson": [
+    "ingredientsFor2Person": [
       {
         "name": "Красная чечевица",
         "count": 150,
@@ -149,7 +149,7 @@
   {
     "name": "Салат с креветками и кунжутом",
     "cookingTime": "20 минут.",
-    "ingredientsForTwoPerson": [
+    "ingredientsFor2Person": [
       {
         "name": "Помидоры",
         "count": 3,
@@ -197,7 +197,7 @@
   {
     "name": "Творожные пончики в сахарной пудре",
     "cookingTime": "40 минут.",
-    "ingredientsForTwoPerson": [
+    "ingredientsFor2Person": [
       {
         "name": "Творог",
         "count": 250,
